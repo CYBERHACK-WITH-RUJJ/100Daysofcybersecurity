@@ -1,0 +1,11 @@
+The contents which we will learn
+-Introduction to Cyber Security
+-Introduction to Linux
+-Introduction to Windows
+-Introduction to Networking
+-Ethical Hacking
+-Web Application Security / Hacking /Penetration testing
+-SOC and SIEM:
+-BLUE/PURPLE Team Hacking Scene
+-Offensive Penetration Testing
+-Comprehensive Security Checklists for Auditing,testing 
